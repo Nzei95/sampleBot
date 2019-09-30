@@ -4,6 +4,14 @@
 - hi
 - good morning
 - good evening
+- good afternoon
+- morning
+- afternoon
+- heyyy
+- hiii
+- hiya
+- evening
+- goodnight
 - hey there
 
 ## intent:goodbye
@@ -11,6 +19,9 @@
 - goodbye
 - see you around
 - see you later
+- bye bye
+- see ya
+- see ya later
 
 ## intent:affirm
 - yes
@@ -18,6 +29,8 @@
 - of course
 - that sounds good
 - correct
+- yup
+- yeah
 
 ## intent:deny
 - no
